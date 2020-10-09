@@ -1,4 +1,4 @@
-# vue2-ie-test
+# vue2-ie11-fragments
 
 ## Project setup
 ```
